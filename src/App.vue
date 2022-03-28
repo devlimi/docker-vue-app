@@ -5,7 +5,7 @@
       <router-link to="/about">About</router-link> |
       <router-link to="/news">News</router-link> |
       <router-link to="/axios">Axios</router-link> |
-      빌드테스트2
+      빌드테스트3
     </div>
     <router-view/>
   </div>
